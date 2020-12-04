@@ -1,0 +1,3 @@
+package amp
+
+type Message {}
