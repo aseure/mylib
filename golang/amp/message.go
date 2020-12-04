@@ -1,3 +1,3 @@
 package amp
 
-type Message {}
+type Message struct{}
